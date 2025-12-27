@@ -1,0 +1,9 @@
+../Core/Src/sonic.c:39:6:SONIC_Init	8	static
+../Core/Src/sonic.c:61:13:SONIC_GPIO_Init	32	static
+../Core/Src/sonic.c:87:6:SONIC_Send_Trigger	8	static
+../Core/Src/sonic.c:99:10:SONIC_Measure_Echo_Time	32	static
+../Core/Src/sonic.c:146:7:SONIC_Read_Distance	24	static
+../Core/Src/sonic.c:165:9:SONIC_Read_Data	24	static
+../Core/Src/sonic.c:226:7:SONIC_Get_Last_Distance	4	static
+../Core/Src/sonic.c:242:9:SONIC_Is_Ready	8	static
+../Core/Src/sonic.c:253:6:SONIC_Delay_us	24	static

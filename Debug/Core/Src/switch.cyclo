@@ -1,0 +1,2 @@
+../Core/Src/switch.c:3:6:Switch_Init	1
+../Core/Src/switch.c:13:9:Switch_Read_Mode	4

@@ -1,0 +1,10 @@
+../Core/Src/main.c:103:6:Motor_Control_Logic	9
+../Core/Src/main.c:134:6:Update_Motor_Status	4
+../Core/Src/main.c:161:6:Display_Temperature_Mode	7
+../Core/Src/main.c:237:6:Display_Distance_Mode	7
+../Core/Src/main.c:311:5:main	7
+../Core/Src/main.c:443:6:SystemClock_Config	3
+../Core/Src/main.c:483:13:MX_TIM2_Init	6
+../Core/Src/main.c:542:13:MX_I2C1_Init	2
+../Core/Src/main.c:576:13:MX_GPIO_Init	1
+../Core/Src/main.c:600:6:Error_Handler	1

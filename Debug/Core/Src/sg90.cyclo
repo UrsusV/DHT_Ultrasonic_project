@@ -1,0 +1,12 @@
+../Core/Src/sg90.c:40:13:SG90_SetPWM	2
+../Core/Src/sg90.c:62:6:SG90_Init	1
+../Core/Src/sg90.c:82:6:SG90_SetAngle	1
+../Core/Src/sg90.c:92:6:SG90_Start_Sweep	1
+../Core/Src/sg90.c:107:6:SG90_Update_Sweep	5
+../Core/Src/sg90.c:143:6:SG90_Stop	1
+../Core/Src/sg90.c:153:9:SG90_GetAngle	1
+../Core/Src/sg90.c:162:14:SG90_GetState	1
+../Core/Src/sg90.c:171:9:SG90_IsRunning	1
+../Core/Src/sg90.c:180:9:SG90_IsSweeping	1
+../Core/Src/sg90.c:191:6:SG90_Set_Sweep_Range	5
+../Core/Src/sg90.c:214:6:SG90_Set_Sweep_Speed	3
